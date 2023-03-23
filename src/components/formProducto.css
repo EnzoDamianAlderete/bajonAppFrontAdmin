@@ -1,0 +1,32 @@
+.headform {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 16px;
+}
+
+.camposprod {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  align-items: center;
+}
+
+.divboton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 24px;
+}
+
+.divAdd {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divAdd h2 {
+  padding-right: 8px;
+}
